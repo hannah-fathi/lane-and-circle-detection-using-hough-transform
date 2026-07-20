@@ -63,9 +63,6 @@ The objective of this project is to demonstrate how a carefully designed image p
 lane-and-circle-detection-using-hough-transform
 
 │
-├── assets/
-│   ├── lane_detection.gif
-│   └── figures/
 │
 ├── data/
 │   └── sample_images/
@@ -81,7 +78,7 @@ lane-and-circle-detection-using-hough-transform
 │   ├── lane_detection/
 │   ├── circle_detection/
 │   ├── angle_histogram/
-│   └── animations/
+│   └── lane_detection.gif
 │
 ├── README.md
 ├── requirements.txt
