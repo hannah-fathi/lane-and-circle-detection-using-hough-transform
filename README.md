@@ -77,7 +77,7 @@ lane-and-circle-detection-using-hough-transform
 ├── results/
 │   ├── lane_detection/
 │   ├── circle_detection/
-│   ├── angle_histogram/
+│   ├── angle_histogram.png
 │   └── lane_detection.gif
 │
 ├── README.md
