@@ -1,0 +1,52 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this repository in your research or educational work, please cite it as follows."
+
+title: "Lane and Circle Detection using Hough Transform"
+
+type: software
+
+authors:
+  - family-names: "Fathi"
+    given-names: "Hannah"
+    affiliation: "Shiraz University"
+    orcid: ""
+
+repository-code: "https://github.com/hannah-fathi/lane-and-circle-detection-using-hough-transform"
+
+url: "https://github.com/hannah-fathi/lane-and-circle-detection-using-hough-transform"
+
+abstract: >
+  A modular computer vision framework for lane detection and
+  circular object localization using the Hough Transform,
+  multi-stage edge detection, region-of-interest extraction,
+  and classical image processing techniques implemented with OpenCV.
+
+keywords:
+  - Computer Vision
+  - Image Processing
+  - Hough Transform
+  - Lane Detection
+  - Circle Detection
+  - OpenCV
+  - Feature Extraction
+  - Autonomous Driving
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-07-21"
+
+language: en
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Fathi"
+      given-names: "Hannah"
+  title: "Lane and Circle Detection using Hough Transform"
+  version: "1.0.0"
+  year: 2026
+  url: "https://github.com/hannah-fathi/lane-and-circle-detection-using-hough-transform"
+```
