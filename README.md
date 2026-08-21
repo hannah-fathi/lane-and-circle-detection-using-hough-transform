@@ -395,8 +395,6 @@ This project is released under the MIT License.
 
 **Hannah Fathi**
 
-**M.Sc. Student in Artificial Intelligence and Robotics**
-
 **Spring 2025**
 
 **Research Interests**
