@@ -361,11 +361,6 @@ If you use this repository in your research or educational projects, please cons
 }
 ```
 
----
-
-# Acknowledgements
-
-This repository was originally inspired by an advanced Digital Image Processing course at Shiraz University and has been extensively refactored into a modular research-oriented implementation for reproducible computer vision experiments.
 
 ---
 
