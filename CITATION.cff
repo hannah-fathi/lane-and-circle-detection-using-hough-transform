@@ -9,7 +9,6 @@ type: software
 authors:
   - family-names: "Fathi"
     given-names: "Hannah"
-    affiliation: "Shiraz University"
     orcid: ""
 
 repository-code: "https://github.com/hannah-fathi/lane-and-circle-detection-using-hough-transform"
